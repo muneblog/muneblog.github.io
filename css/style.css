@@ -160,7 +160,7 @@ section.main .post .post-header h1.title a:active {
 }
 @media (max-width: 33.9em) {
   section.main .post .post-header h1.title {
-    font-size: 20em;
+    font-size: 0.7em;
   }
 }
 section.main .post .post-header .post-info {
